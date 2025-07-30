@@ -1,6 +1,6 @@
 # ALL OF THIS WAS MADE IN R PROGRAMMING AND POSTER ASSEMBLED IN CANVAS :)
 
-DATASET FROM THE The National UFO Reporting Center
+Dataset From The National UFO Reporting Center
 
  https://nuforc.org/
 
